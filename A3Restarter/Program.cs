@@ -6,7 +6,7 @@ namespace A3Restarter
 {
     class Program
     {
-        private static int secondsToRestart = 10860;    //3 hours and 1 minute to allow for server start time
+        private static int secondsToRestart = 21660;    //6 hours and 1 minute to allow for server start time
         private static int timeLeftToRestart = 0;
         private static int displayInterval = 60000; //Update every 60 seconds
 
